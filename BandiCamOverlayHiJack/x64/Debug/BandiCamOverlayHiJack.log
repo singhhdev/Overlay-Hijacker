@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\16026\Desktop\Kernel Driver\BandiCamOverlayHiJack\BandiCamOverlayHiJack\Source.cpp(53,50): warning C4244: '=': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\16026\Desktop\Kernel Driver\BandiCamOverlayHiJack\BandiCamOverlayHiJack\Source.cpp(97,118): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\16026\Desktop\Kernel Driver\BandiCamOverlayHiJack\BandiCamOverlayHiJack\Source.cpp(106,118): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\16026\Desktop\Kernel Driver\BandiCamOverlayHiJack\BandiCamOverlayHiJack\Source.cpp(258,25): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\16026\Desktop\Kernel Driver\BandiCamOverlayHiJack\BandiCamOverlayHiJack\Source.cpp(259,25): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\16026\Desktop\Kernel Driver\BandiCamOverlayHiJack\BandiCamOverlayHiJack\Source.cpp(271,25): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\16026\Desktop\Kernel Driver\BandiCamOverlayHiJack\BandiCamOverlayHiJack\Source.cpp(272,25): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  BandiCamOverlayHiJack.vcxproj -> C:\Users\16026\Desktop\Kernel Driver\BandiCamOverlayHiJack\x64\Debug\BandiCamOverlayHiJack.exe
